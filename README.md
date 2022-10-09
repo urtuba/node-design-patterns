@@ -17,4 +17,4 @@ Singleton pattern is used to instantiate a class only once, and use only this in
 
 Factories are functions that are used to create instances of different classes. They provide a level of abstraction, and they make decisions on which class / constructor should be used to create the object with given arguments.
 
-1. [Factory](https://github.com/urtuba/node-design-patterns/blob/master/factory)
+1. [Factory](https://github.com/urtuba/node-design-patterns/blob/master/creation/factory)

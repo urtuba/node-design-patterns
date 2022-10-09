@@ -17,10 +17,10 @@ Singleton pattern is used to instantiate a class only once, and use only this in
 
 Factories are functions that are used to create instances of different classes. They provide a level of abstraction, and they make decisions on which class / constructor should be used to create the object with given arguments.
 
-1. [Factory](https://github.com/urtuba/node-design-patterns/blob/master/creational-patterns/factory)
+- [Factory](https://github.com/urtuba/node-design-patterns/blob/master/creational-patterns/factory)
 
 ### Builder
 
 Builder pattern allows you to initialize instances more granularly, while removing the burden of remembering different constructors, large number of arguments with their order. It is also easy to extend and makes your code more readable and understandable.
 
-2. [Builder](https://github.com/urtuba/node-design-patterns/blob/master/creational-patterns/builder)
+- [Builder](https://github.com/urtuba/node-design-patterns/blob/master/creational-patterns/builder)
